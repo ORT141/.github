@@ -7,6 +7,6 @@ Here you can find source code for educational, scientific, and creative works.
 
 ## Projects 🚀
 
-- **QuietHeart** — app for children to stay calm and relaxed.
+- **[QuietHeart](https://github.com/ORT141/QuietHeart)** — app for children to stay calm and relaxed.
 
-- **BiologyCV** - recognition of biological cell organelles using computer vision
+- **[BiologyCV](https://github.com/ORT141/biology-cv)** - recognition of biological cell organelles using computer vision
