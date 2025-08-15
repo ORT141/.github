@@ -1,9 +1,8 @@
-# Welcome to the Lyceum №141 Organization! 🎓
+# Welcome to Lyceum №141’s STEM Hub! 🎓
 
 ## About Us
-This organization hosts **STEM projects** created by students of **Lyceum №141** in **Kyiv**. 
-
-Here you can find source code for educational, scientific, and creative works.
+We are a community of young innovators from **Lyceum №141** in **Kyiv**, dedicated to creating impactful **STEM projects**.  
+Here, you’ll find source code for educational, scientific, and creative works developed by our students.
 
 ## Projects 🚀
 
