@@ -1,12 +1,118 @@
-# Welcome to Lyceum №141’s STEM Hub! 🎓
+<div align="center">
 
-## About Us
-We are a community of young innovators from **Lyceum №141** in **Kyiv**, dedicated to creating impactful **STEM projects**.  
-Here, you’ll find source code for educational, scientific, and creative works developed by our students.
+<img src="https://www.ortlyceum.kiev.ua/storage/banner/logo.svg" width="600"/>
 
-## Projects 🚀
+# 🎓 Lyceum №141 STEM Hub
 
-- **[Emvia](https://github.com/ORT141/Emvia)** – a narrative-driven game about navigating social environments, managing stress, and making impactful choices.
-- **[QuietHeart](https://github.com/ORT141/QuietHeart)** – an app for children to stay calm and relaxed. 🏆 **PLATINUM (2nd) place worldwide at [InfoMatrix](https://docs.google.com/spreadsheets/d/1yhDQ-axAegOF8TnBQP3juVDvim8w_-ZS00ixy6_3o-8), in programming category**  
-- **[SoundAid](https://github.com/ORT141/SoundAid)** – a sound recognition system with haptic feedback for the hearing impaired. 🏆 **PLATINUM (2nd) place worldwide at [InfoMatrix](https://docs.google.com/spreadsheets/d/1yhDQ-axAegOF8TnBQP3juVDvim8w_-ZS00ixy6_3o-8), in hardware control category**  
-- **[BiologyCV](https://github.com/ORT141/biology-cv)** – recognition of biological cell organelles using computer vision.
+Student **STEM projects** developed at  
+**ORT Lyceum №141 Kyiv**
+
+Building **educational, scientific, and creative technology projects**.
+
+<br>
+
+<a href="https://www.ortlyceum.kyiv.ua/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Fxemoji_u1F310.svg" height="40">
+</a>
+&nbsp;&nbsp;
+<a href="https://www.facebook.com/lyc141ORT">
+  <img src="https://cdn.simpleicons.org/facebook/white" height="40">
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/lyceum141.ort/">
+  <img src="https://cdn.simpleicons.org/instagram/white" height="40">
+</a>
+
+</div>
+
+---
+
+# 🚀 Projects
+
+### 🎮 Emvia
+
+<img src="https://raw.githubusercontent.com/ORT141/.github/main/logos/emvia_logo.png" align="left" width="90">
+
+A **narrative-driven game** about navigating social environments, managing stress, and making impactful choices.
+
+**Repository:**  
+https://github.com/ORT141/Emvia
+
+**🏆 Awards**
+
+- 🥇 **PLATINUM (1st place)** — Ukrainian stage of **InfoMatrix 2026**
+
+<br clear="left"/>
+
+---
+
+### 🧘 QuietHeart
+
+<img src="https://raw.githubusercontent.com/ORT141/.github/main/logos/quietheart_logo.png" align="left" width="90">
+
+An application designed to help children **stay calm, regulate emotions, and relax**.
+
+**Repository:**  
+https://github.com/ORT141/QuietHeart
+
+**🏆 Awards**
+
+- 🥇 **PLATINUM (1st place)** — Ukrainian stage of **InfoMatrix 2025**  
+  https://t.me/infomatrixukraine/683
+
+- 🌍 **PLATINUM (2nd place worldwide)** — Programming Category at **InfoMatrix World Final**  
+  https://docs.google.com/spreadsheets/d/1yhDQ-axAegOF8TnBQP3juVDvim8w_-ZS00ixy6_3o-8
+
+<br clear="left"/>
+
+---
+
+### 🔊 SoundAid
+
+<img src="https://raw.githubusercontent.com/ORT141/.github/main/logos/soundaid_logo.png" align="left" width="90">
+
+A **sound recognition system with haptic feedback** designed to assist people with hearing impairments.
+
+**Repository:**  
+https://github.com/ORT141/SoundAid
+
+**🏆 Awards**
+
+- 🥇 **PLATINUM (1st place)** — Ukrainian stage of **InfoMatrix 2025**  
+  https://t.me/infomatrixukraine/683
+
+- 🌍 **PLATINUM (2nd place worldwide)** — Hardware Control Category at **InfoMatrix World Final**  
+  https://docs.google.com/spreadsheets/d/1yhDQ-axAegOF8TnBQP3juVDvim8w_-ZS00ixy6_3o-8
+
+<br clear="left"/>
+
+---
+
+### 🔬 BiologyCV
+
+Computer vision system for **recognizing biological cell organelles**.
+
+**Repository:**  
+https://github.com/ORT141/biology-cv
+
+---
+
+<div align="center">
+
+Built by students of **Lyceum №141, Kyiv**
+
+<br><br>
+
+<a href="https://www.ortlyceum.kyiv.ua/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Fxemoji_u1F310.svg" height="40">
+</a>
+&nbsp;&nbsp;
+<a href="https://www.facebook.com/lyc141ORT">
+  <img src="https://cdn.simpleicons.org/facebook/white" height="40">
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/lyceum141.ort/">
+  <img src="https://cdn.simpleicons.org/instagram/white" height="40">
+</a>
+
+</div>
