@@ -78,7 +78,7 @@ https://github.com/ORT141/SoundAid
 
 **🏆 Awards**
 
-- 🥇 **PLATINUM (1st place)** — Ukrainian stage of **InfoMatrix 2025**  
+- 🥇 **GOLD** — Ukrainian stage of **InfoMatrix 2025**  
   https://t.me/infomatrixukraine/683
 
 - 🌍 **PLATINUM (2nd place worldwide)** — Hardware Control Category at **InfoMatrix World Final**  
