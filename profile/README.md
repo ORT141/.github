@@ -40,7 +40,8 @@ https://github.com/ORT141/Emvia
 
 **🏆 Awards**
 
-- 🥇 **PLATINUM (1st place)** — Ukrainian stage of **InfoMatrix 2026**
+- 🥇 **PLATINUM (1st place)** — Ukrainian stage of **InfoMatrix 2026**    
+  https://t.me/infomatrixukraine/1240
 
 <br clear="left"/>
 
