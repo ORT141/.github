@@ -61,7 +61,7 @@ https://github.com/ORT141/QuietHeart
 - 🥇 **PLATINUM (1st place)** — Ukrainian stage of **InfoMatrix 2025**  
   https://t.me/infomatrixukraine/683
 
-- 🌍 **PLATINUM (2nd place worldwide)** — Programming Category at **InfoMatrix World Final**  
+- 🌍 **PLATINUM (1st place worldwide)** — Programming Category at **InfoMatrix World Final**  
   https://docs.google.com/spreadsheets/d/1yhDQ-axAegOF8TnBQP3juVDvim8w_-ZS00ixy6_3o-8
 
 <br clear="left"/>
@@ -82,7 +82,7 @@ https://github.com/ORT141/SoundAid
 - 🥇 **GOLD** — Ukrainian stage of **InfoMatrix 2025**  
   https://t.me/infomatrixukraine/683
 
-- 🌍 **PLATINUM (2nd place worldwide)** — Hardware Control Category at **InfoMatrix World Final**  
+- 🌍 **PLATINUM (1st place worldwide)** — Hardware Control Category at **InfoMatrix World Final**  
   https://docs.google.com/spreadsheets/d/1yhDQ-axAegOF8TnBQP3juVDvim8w_-ZS00ixy6_3o-8
 
 <br clear="left"/>
