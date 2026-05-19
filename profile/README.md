@@ -40,8 +40,11 @@ https://github.com/ORT141/Emvia
 
 **🏆 Awards**
 
-- 🥇 **PLATINUM (1st place)** — Ukrainian stage of **InfoMatrix 2026**    
+- 🥇 **PLATINUM (1st place)** – Ukrainian stage of **InfoMatrix 2026**    
   https://t.me/infomatrixukraine/1240
+
+- 🌍 **PLATINUM (1st place worldwide)** – Programming Category at **InfoMatrix World Final**  
+  https://www.infomatrix.ro/finalists2026/
 
 <br clear="left"/>
 
@@ -58,10 +61,10 @@ https://github.com/ORT141/QuietHeart
 
 **🏆 Awards**
 
-- 🥇 **PLATINUM (1st place)** — Ukrainian stage of **InfoMatrix 2025**  
+- 🥇 **PLATINUM (1st place)** – Ukrainian stage of **InfoMatrix 2025**  
   https://t.me/infomatrixukraine/683
 
-- 🌍 **PLATINUM (1st place worldwide)** — Programming Category at **InfoMatrix World Final**  
+- 🌍 **PLATINUM (1st place worldwide)** – Programming Category at **InfoMatrix World Final**  
   https://docs.google.com/spreadsheets/d/1yhDQ-axAegOF8TnBQP3juVDvim8w_-ZS00ixy6_3o-8
 
 <br clear="left"/>
@@ -79,10 +82,10 @@ https://github.com/ORT141/SoundAid
 
 **🏆 Awards**
 
-- 🥇 **GOLD** — Ukrainian stage of **InfoMatrix 2025**  
+- 🥇 **GOLD** – Ukrainian stage of **InfoMatrix 2025**  
   https://t.me/infomatrixukraine/683
 
-- 🌍 **PLATINUM (1st place worldwide)** — Hardware Control Category at **InfoMatrix World Final**  
+- 🌍 **PLATINUM (1st place worldwide)** – Hardware Control Category at **InfoMatrix World Final**  
   https://docs.google.com/spreadsheets/d/1yhDQ-axAegOF8TnBQP3juVDvim8w_-ZS00ixy6_3o-8
 
 <br clear="left"/>
