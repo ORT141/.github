@@ -109,6 +109,7 @@ https://github.com/ORT141/IMAS
 - 🌍 **GOLD (worldwide)** – Hardware Control Category at **InfoMatrix World Final**  
   https://t.me/infomatrixukraine/1366
 
+---
 
 ## ResQ
 
@@ -126,6 +127,8 @@ https://github.com/ORT141/ResQ
 
 - 🌍 **SILVER (worldwide)** – Hardware Control Category at **InfoMatrix World Final**  
   https://t.me/infomatrixukraine/1366
+
+---
 
 ### 🔬 BiologyCV
 
