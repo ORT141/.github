@@ -44,7 +44,7 @@ https://github.com/ORT141/Emvia
   https://t.me/infomatrixukraine/1240
 
 - 🌍 **PLATINUM (1st place worldwide)** – Programming Category at **InfoMatrix World Final**  
-  https://www.infomatrix.ro/finalists2026/
+  https://t.me/infomatrixukraine/1366
 
 <br clear="left"/>
 
@@ -91,6 +91,41 @@ https://github.com/ORT141/SoundAid
 <br clear="left"/>
 
 ---
+
+### I.M.a.S
+
+<img src="https://github.com/user-attachments/assets/aa43e969-d598-49ec-a99b-576d6536d195" align="left" width="90">
+
+A helmet designed to transform the future, Navigation, Safety, Life-saving
+
+**Repository:**  
+https://github.com/ORT141/IMAS
+
+**🏆 Awards**
+
+- 🥇 **GOLD** – Ukrainian stage of **InfoMatrix 2026**  
+  https://t.me/infomatrixukraine/1232
+
+- 🌍 **GOLD (worldwide)** – Hardware Control Category at **InfoMatrix World Final**  
+  https://t.me/infomatrixukraine/1366
+
+
+## ResQ
+
+<img src="https://github.com/user-attachments/assets/c8514036-e390-4273-92d9-822e8b7dccf5" align="left" width="90">
+
+Autonomous robotic module for emergency situations
+
+**Repository:**  
+https://github.com/ORT141/ResQ
+
+**🏆 Awards**
+
+- 🥇 **PLATINUM (1st place)** – Ukrainian stage of **InfoMatrix 2026**  
+  https://t.me/infomatrixukraine/1242
+
+- 🌍 **SILVER (worldwide)** – Hardware Control Category at **InfoMatrix World Final**  
+  https://t.me/infomatrixukraine/1366
 
 ### 🔬 BiologyCV
 
