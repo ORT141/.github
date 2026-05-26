@@ -11,7 +11,7 @@ Building **educational, scientific, and creative technology projects**.
 
 <br>
 
-<a href="https://www.ortlyceum.kyiv.ua/">
+<a href="https://ortlyceum.kyiv.ua/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Fxemoji_u1F310.svg" height="40">
 </a>
 &nbsp;&nbsp;
@@ -145,7 +145,7 @@ Built by students of **Lyceum №141, Kyiv**
 
 <br><br>
 
-<a href="https://www.ortlyceum.kyiv.ua/">
+<a href="https://ortlyceum.kyiv.ua/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Fxemoji_u1F310.svg" height="40">
 </a>
 &nbsp;&nbsp;
